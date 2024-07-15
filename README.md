@@ -53,6 +53,8 @@ The extracted and translated text details will be saved in a JSON file at the sp
         ]
     }
 }
+
+
 Acknowledgements
 PyMuPDF for PDF parsing
 Googletrans for text translation
